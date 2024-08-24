@@ -1,11 +1,10 @@
 from setuptools import setup, find_packages
 
   setup(
-      name='dsa_princeton_algorithms',
+      name='video slides capture',
       version='0.1.0',
-      description='Implementation of Princeton Algorithms',
-      author='Your Name',
-      author_email='your.email@example.com',
+      description='automatically capture screenshots from a youtube video capturing important highlights',
+      author='samehra',
       packages=find_packages(),
       install_requires=[
           # List any dependencies your project needs 
