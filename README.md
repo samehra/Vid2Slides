@@ -8,4 +8,4 @@ This project includes a Python script for capturing slides from a YouTube video 
 
 1. Install dependencies:
    ```bash
-   pip install pytube opencv-python numpy scikit-image pillow
+   pip install pytubefix opencv-python numpy scikit-image pillow
