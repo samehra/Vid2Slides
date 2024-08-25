@@ -4,4 +4,3 @@ pytubefix
 scikit-image
 matplotlib
 pillow
-shutil
