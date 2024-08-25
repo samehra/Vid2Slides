@@ -4,3 +4,4 @@ pytubefix
 scikit-image
 matplotlib
 pillow
+yt-dlp
