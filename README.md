@@ -35,4 +35,4 @@ preview_images('slides')
 ```
 python main.py '<youtube_video_url>' --verbose
 ```
-Sometimes youtube might flag it as a 'bot' when run using python ide. I have also included a .ipynb file in examples/sample_1.ipynb which can be executed in Google Colab and runs without any error.
+Sometimes Youtube might flag it as a 'bot' when run using a python ide. I have also included a .ipynb file in examples/sample_1.ipynb which can be executed in Google Colab and runs without any error.
