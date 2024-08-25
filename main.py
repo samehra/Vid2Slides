@@ -10,3 +10,6 @@ def main(url):
   # Step 3: Preview the captured slides
   max_slides = 100
   preview_images('slides', image_count=max_slides)
+
+  if __name__ == "__main__":
+    main(url)
