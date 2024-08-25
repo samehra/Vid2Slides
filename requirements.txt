@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pytubefix
+scikit-image
+matplotlib
+pillow
+shutil
