@@ -31,3 +31,7 @@ capture_slides('video.mp4')
 preview_images('slides')
 ```
 
+## How to run
+```
+python main.py '<youtube_video_url>' --verbose
+```
