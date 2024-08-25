@@ -1,4 +1,4 @@
-from code import download_video, capture_slides, preview_images
+from Code import download_video, capture_slides, preview_images
 
 def main(args):
   # Step 1: Download the video
