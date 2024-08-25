@@ -1,4 +1,5 @@
-from Code import download_video, capture_slides, preview_images
+from Code.vid2slides import download_video, capture_slides, preview_images
+import argparse
 
 def main(args):
   # Step 1: Download the video
